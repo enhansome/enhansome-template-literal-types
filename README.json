@@ -1,0 +1,222 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "🤯 Pure Madness"
+    },
+    {
+      "description": "Tweet\ntypescript-types-only-wasm-runtime repo\nVideo walkthrough",
+      "items": [],
+      "title": "typescript-types-only-wasm-runtime"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🗂️ Use Cases"
+    },
+    {
+      "description": "Tweet",
+      "items": [],
+      "title": "dot notation string type-safe"
+    },
+    {
+      "description": "Tweet",
+      "items": [],
+      "title": "document.querySelector"
+    },
+    {
+      "description": "Tweet",
+      "items": [],
+      "title": "Router params parsing"
+    },
+    {
+      "description": "Tweet\nstatic-path repo\nVideo walkthrough",
+      "items": [],
+      "title": "static-path library"
+    },
+    {
+      "description": "Tweet",
+      "items": [],
+      "title": "Expression parser"
+    },
+    {
+      "description": "Tweet",
+      "items": [],
+      "title": "JSON Parser"
+    },
+    {
+      "description": "Tweet\nGist",
+      "items": [],
+      "title": "JSON Serializer"
+    },
+    {
+      "description": "Tweet",
+      "items": [],
+      "title": "GraphQL Typed AST"
+    },
+    {
+      "description": "Tweet",
+      "items": [],
+      "title": "SQL Database"
+    },
+    {
+      "description": "Tweet",
+      "items": [],
+      "title": "CSS Parser"
+    },
+    {
+      "description": "Tweet",
+      "items": [],
+      "title": "ELIZA Bot"
+    },
+    {
+      "description": "Blog\nTweet",
+      "items": [],
+      "title": "Typescript Type System Adventure - by Rick Love"
+    },
+    {
+      "description": "Similar to Idris' type-safe dependently-typed printf, but in TypeScript, working with console.log.\nGitHub",
+      "items": [],
+      "title": "Printf/Log"
+    },
+    {
+      "description": "GitHub",
+      "items": [],
+      "title": "Bitwise Arithmetic"
+    },
+    {
+      "description": "TypeScript toolkit for building end-to-end type-safe APIs\nThe client above is not importing any code from the server, only it's type declarations.",
+      "items": [],
+      "title": "tRPC"
+    },
+    {
+      "description": "Split a string value with a given sepatator\nTweet",
+      "items": [],
+      "title": "Split"
+    },
+    {
+      "description": "Automaticly privatize methods prefixed by '_'\nTweet",
+      "items": [],
+      "title": "Privatized"
+    },
+    {
+      "description": "Type safe\nTweet",
+      "items": [],
+      "title": "Join"
+    },
+    {
+      "description": "Tweet",
+      "items": [],
+      "title": "Extract all paths from object"
+    },
+    {
+      "description": "Tweet",
+      "items": [],
+      "title": "Repeat"
+    },
+    {
+      "description": "Extract typed ICU params from translation strings",
+      "items": [],
+      "title": "schummar-translate"
+    },
+    {
+      "description": "A type-safe typescript SQL query builder\nWebSite",
+      "items": [],
+      "title": "kysely"
+    },
+    {
+      "description": "A simple and safe router for React and TypeScript, based on template literal types capabilities.",
+      "items": [],
+      "title": "chicane"
+    },
+    {
+      "description": "Tweet",
+      "items": [],
+      "title": "Prefix Properties"
+    },
+    {
+      "description": "TypeLevel DSL Parser",
+      "items": [],
+      "title": "Typelevel Parser"
+    },
+    {
+      "description": "A curated list of advanced type level madness",
+      "items": [],
+      "title": "Type-Trident"
+    },
+    {
+      "description": "A simplified implementation of TypeScript's type system written in TypeScript's own type system\nTweet",
+      "items": [],
+      "title": "HypeScript"
+    },
+    {
+      "description": "Anysort，Flexible and Full Typed multi-properties sorter for nested objects",
+      "items": [],
+      "title": "Anysort"
+    },
+    {
+      "description": "A pure type only implementation of Wordle game",
+      "items": [],
+      "title": "Wordle"
+    },
+    {
+      "description": "Cache-control header utility that parses human readable time strings into seconds. Time based values use Template Literal Types to help avoid passing invalid time string formats.",
+      "items": [],
+      "title": "pretty-cache-header"
+    },
+    {
+      "description": "A tiny URL router for Nano Stores state manager.",
+      "items": [],
+      "title": "nanostores-router"
+    },
+    {
+      "description": "Safely get deep nested properties using dot notation.\nGitHub",
+      "items": [],
+      "title": "dot-path-value"
+    },
+    {
+      "description": "Infer event names out of HTML elements\nTweet",
+      "items": [],
+      "title": "infer-html-events"
+    },
+    {
+      "description": "Higher-Order TypeScript: A lodash-like library for types, with support for type-level lambda functions.\nhttps://user-images.githubusercontent.com/2315749/222081717-96217cd2-ac89-4e06-a942-17fbda717cd2.mp4\nTweet",
+      "items": [],
+      "title": "hotscript"
+    },
+    {
+      "description": "The brother router to help in React apps",
+      "items": [],
+      "title": "brouther"
+    },
+    {
+      "description": "✨ Functional and composable type utilities",
+      "items": [],
+      "title": "hkt-toolbelt"
+    },
+    {
+      "description": "Strongly-typed string functions for all!",
+      "items": [],
+      "title": "string-ts"
+    },
+    {
+      "description": "Experiment to declare typesclasses with programmatic type signatures.",
+      "items": [],
+      "title": "typeskell"
+    },
+    {
+      "description": "🪄 Magical GraphQL query engine for TypeScript",
+      "items": [],
+      "title": "gql.tada"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:11:35.424Z",
+    "original_repository": "ghoullier/awesome-template-literal-types",
+    "original_repository_sha": "1cf3679c55bc146a6d369fb55c470cb3f22a792f",
+    "enhanced_repository": "enhansome/enhansome-template-literal-types",
+    "enhanced_repository_description": null,
+    "title": "TypeScript Awesome Template Literal Types with stars"
+  }
+}
