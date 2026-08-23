@@ -454,7 +454,7 @@ Cache-control header utility that parses human readable time strings into second
   </a>
 </p>
 
-A tiny URL router for [Nano Stores](https://github.com/nanostores/nanostores) ⭐ 7,570 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-20 state manager.
+A tiny URL router for [Nano Stores](https://github.com/nanostores/nanostores) ⭐ 7,572 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-20 state manager.
 
 <img src="./images/nanostores-router.png" alt="A tiny URL router for Nano Stores state manager.">
 
@@ -577,4 +577,4 @@ Experiment to declare typesclasses with programmatic type signatures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
