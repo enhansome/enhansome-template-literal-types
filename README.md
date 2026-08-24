@@ -454,7 +454,7 @@ Cache-control header utility that parses human readable time strings into second
   </a>
 </p>
 
-A tiny URL router for [Nano Stores](https://github.com/nanostores/nanostores) ⭐ 7,578 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-20 state manager.
+A tiny URL router for [Nano Stores](https://github.com/nanostores/nanostores) ⭐ 7,577 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-20 state manager.
 
 <img src="./images/nanostores-router.png" alt="A tiny URL router for Nano Stores state manager.">
 

@@ -1,7 +1,58 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "static-path repo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395074929,
+                "language": "TypeScript",
+                "last_commit": "2021-11-18T01:27:00Z",
+                "owner": "garybernhardt",
+                "repo": "static-path",
+                "stars": 212
+              }
+            }
+          ],
+          "description": "Tweet\nVideo walkthrough",
+          "node_type": "group",
+          "title": "static-path library"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 591400290,
+                "language": "TypeScript",
+                "last_commit": "2026-08-01T10:10:52Z",
+                "owner": "g-makarov",
+                "repo": "dot-path-value",
+                "stars": 355
+              }
+            }
+          ],
+          "description": "Safely get deep nested properties using dot notation.",
+          "node_type": "group",
+          "title": "dot-path-value"
+        }
+      ],
+      "title": "🗂️ Use Cases"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T11:05:02.748Z",
+    "last_updated": "2026-08-24T14:13:51.162Z",
     "original_repository": "ghoullier/awesome-template-literal-types",
     "original_repository_id": 298674515,
     "original_repository_sha": "1cf3679c55bc146a6d369fb55c470cb3f22a792f",
