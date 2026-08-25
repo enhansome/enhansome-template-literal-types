@@ -12,7 +12,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 
 [Tweet](https://x.com/MiTypeScript/status/1894764784983113780)
 
-[typescript-types-only-wasm-runtime repo](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime) ⭐ 2,403 | 🐛 7 | 🌐 TypeScript | 📅 2025-03-07
+[typescript-types-only-wasm-runtime repo](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime) ⭐ 2,404 | 🐛 7 | 🌐 TypeScript | 📅 2025-03-07
 
 [Video walkthrough](https://www.youtube.com/watch?v=0mCsluv5FXA)
 
@@ -454,7 +454,7 @@ Cache-control header utility that parses human readable time strings into second
   </a>
 </p>
 
-A tiny URL router for [Nano Stores](https://github.com/nanostores/nanostores) ⭐ 7,577 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-20 state manager.
+A tiny URL router for [Nano Stores](https://github.com/nanostores/nanostores) ⭐ 7,578 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-20 state manager.
 
 <img src="./images/nanostores-router.png" alt="A tiny URL router for Nano Stores state manager.">
 
@@ -577,4 +577,4 @@ Experiment to declare typesclasses with programmatic type signatures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
