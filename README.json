@@ -52,9 +52,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:04:57.709Z",
-    "original_repository": "ghoullier/awesome-template-literal-types",
-    "original_repository_id": 298674515,
+    "last_updated": "2026-08-27T12:05:33.348Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 298674515,
+      "language": "Dockerfile",
+      "last_commit": "2025-03-05T15:20:16Z",
+      "owner": "ghoullier",
+      "repo": "awesome-template-literal-types",
+      "stars": 1223
+    },
     "original_repository_sha": "1cf3679c55bc146a6d369fb55c470cb3f22a792f",
     "enhanced_repository": "enhansome/enhansome-template-literal-types",
     "enhanced_repository_description": null,
