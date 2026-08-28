@@ -18,7 +18,8 @@
                 "owner": "garybernhardt",
                 "repo": "static-path",
                 "stars": 212
-              }
+              },
+              "first_seen": "2026-08-28T21:14:42.904Z"
             }
           ],
           "description": "Tweet\nVideo walkthrough",
@@ -40,7 +41,8 @@
                 "owner": "g-makarov",
                 "repo": "dot-path-value",
                 "stars": 355
-              }
+              },
+              "first_seen": "2026-08-28T21:14:42.904Z"
             }
           ],
           "description": "Safely get deep nested properties using dot notation.",
@@ -52,7 +54,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:44:04.644Z",
+    "last_updated": "2026-08-28T21:14:42.904Z",
     "original_repository_info": {
       "archived": false,
       "id": 298674515,
