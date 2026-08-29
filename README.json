@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 395074929,
                 "language": "TypeScript",
+                "license": "ISC",
                 "last_commit": "2021-11-18T01:27:00Z",
+                "open_issues": 2,
                 "owner": "garybernhardt",
                 "repo": "static-path",
-                "stars": 212
+                "stars": 212,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:14:42.904Z"
             }
@@ -35,12 +40,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Safely get and set deep nested properties using dot notation.",
+                "homepage": null,
                 "id": 591400290,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-01T10:10:52Z",
+                "open_issues": 0,
                 "owner": "g-makarov",
                 "repo": "dot-path-value",
-                "stars": 355
+                "stars": 356,
+                "topics": [
+                  "access",
+                  "array",
+                  "change",
+                  "deep",
+                  "dot",
+                  "get",
+                  "notation",
+                  "object",
+                  "path",
+                  "property",
+                  "set",
+                  "type",
+                  "typescript",
+                  "update",
+                  "value"
+                ]
               },
               "first_seen": "2026-08-28T21:14:42.904Z"
             }
@@ -54,15 +80,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:14:42.904Z",
+    "last_updated": "2026-08-29T04:34:44.027Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of awesome Template Literal Types examples",
+      "homepage": null,
       "id": 298674515,
       "language": "Dockerfile",
+      "license": null,
       "last_commit": "2025-03-05T15:20:16Z",
+      "open_issues": 1,
       "owner": "ghoullier",
       "repo": "awesome-template-literal-types",
-      "stars": 1223
+      "stars": 1223,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "lists",
+        "resources"
+      ]
     },
     "original_repository_sha": "1cf3679c55bc146a6d369fb55c470cb3f22a792f",
     "enhanced_repository": "enhansome/enhansome-template-literal-types",

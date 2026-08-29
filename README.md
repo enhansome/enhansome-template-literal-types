@@ -473,7 +473,7 @@ Safely get deep nested properties using dot notation.
 
 <img src="./images/dot-path-value.png" alt="Safely get deep nested properties using dot notation.">
 
-[GitHub](https://github.com/g-makarov/dot-path-value) ⭐ 355 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-01
+[GitHub](https://github.com/g-makarov/dot-path-value) ⭐ 356 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-01
 
 ### infer-html-events
 
@@ -577,4 +577,4 @@ Experiment to declare typesclasses with programmatic type signatures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
