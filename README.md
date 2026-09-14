@@ -454,7 +454,7 @@ Cache-control header utility that parses human readable time strings into second
   </a>
 </p>
 
-A tiny URL router for [Nano Stores](https://github.com/nanostores/nanostores) ⭐ 7,602 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-08 state manager.
+A tiny URL router for [Nano Stores](https://github.com/nanostores/nanostores) ⭐ 7,604 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-14 state manager.
 
 <img src="./images/nanostores-router.png" alt="A tiny URL router for Nano Stores state manager.">
 
@@ -473,7 +473,7 @@ Safely get deep nested properties using dot notation.
 
 <img src="./images/dot-path-value.png" alt="Safely get deep nested properties using dot notation.">
 
-[GitHub](https://github.com/g-makarov/dot-path-value) ⭐ 356 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-01
+[GitHub](https://github.com/g-makarov/dot-path-value) ⭐ 355 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-01
 
 ### infer-html-events
 
@@ -577,4 +577,4 @@ Experiment to declare typesclasses with programmatic type signatures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
