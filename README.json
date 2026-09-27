@@ -80,7 +80,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T14:42:35.602Z",
+    "last_updated": "2026-09-27T15:16:37.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Template Literal Types examples",
@@ -92,7 +92,7 @@
       "open_issues": 1,
       "owner": "ghoullier",
       "repo": "awesome-template-literal-types",
-      "stars": 1224,
+      "stars": 1223,
       "topics": [
         "awesome",
         "awesome-list",
