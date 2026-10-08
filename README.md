@@ -119,7 +119,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 
 [Tweet](https://twitter.com/garybernhardt/status/1466104868498817032)
 
-[static-path repo](https://github.com/garybernhardt/static-path) ⭐ 212 | 🐛 2 | 🌐 TypeScript | 📅 2021-11-18
+[static-path repo](https://github.com/garybernhardt/static-path) ⭐ 213 | 🐛 2 | 🌐 TypeScript | 📅 2021-11-18
 
 [Video walkthrough](https://www.youtube.com/watch?v=KRMJIiGE0ds)
 
@@ -577,4 +577,4 @@ Experiment to declare typesclasses with programmatic type signatures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
