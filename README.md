@@ -12,7 +12,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 
 [Tweet](https://x.com/MiTypeScript/status/1894764784983113780)
 
-[typescript-types-only-wasm-runtime repo](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime) ⭐ 2,406 | 🐛 7 | 🌐 TypeScript | 📅 2025-03-07
+[typescript-types-only-wasm-runtime repo](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime) ⭐ 2,407 | 🐛 7 | 🌐 TypeScript | 📅 2025-03-07
 
 [Video walkthrough](https://www.youtube.com/watch?v=0mCsluv5FXA)
 
@@ -577,4 +577,4 @@ Experiment to declare typesclasses with programmatic type signatures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
