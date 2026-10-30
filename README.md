@@ -12,7 +12,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 
 [Tweet](https://x.com/MiTypeScript/status/1894764784983113780)
 
-[typescript-types-only-wasm-runtime repo](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime) ⭐ 2,410 | 🐛 7 | 🌐 TypeScript | 📅 2025-03-07
+[typescript-types-only-wasm-runtime repo](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime) ⭐ 2,408 | 🐛 7 | 🌐 TypeScript | 📅 2025-03-07
 
 [Video walkthrough](https://www.youtube.com/watch?v=0mCsluv5FXA)
 
@@ -119,7 +119,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 
 [Tweet](https://twitter.com/garybernhardt/status/1466104868498817032)
 
-[static-path repo](https://github.com/garybernhardt/static-path) ⭐ 214 | 🐛 2 | 🌐 TypeScript | 📅 2021-11-18
+[static-path repo](https://github.com/garybernhardt/static-path) ⭐ 213 | 🐛 2 | 🌐 TypeScript | 📅 2021-11-18
 
 [Video walkthrough](https://www.youtube.com/watch?v=KRMJIiGE0ds)
 
@@ -454,7 +454,7 @@ Cache-control header utility that parses human readable time strings into second
   </a>
 </p>
 
-A tiny URL router for [Nano Stores](https://github.com/nanostores/nanostores) ⭐ 7,639 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-15 state manager.
+A tiny URL router for [Nano Stores](https://github.com/nanostores/nanostores) ⭐ 7,640 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-15 state manager.
 
 <img src="./images/nanostores-router.png" alt="A tiny URL router for Nano Stores state manager.">
 
@@ -577,4 +577,4 @@ Experiment to declare typesclasses with programmatic type signatures.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
