@@ -49,7 +49,7 @@
                 "open_issues": 0,
                 "owner": "g-makarov",
                 "repo": "dot-path-value",
-                "stars": 356,
+                "stars": 355,
                 "topics": [
                   "access",
                   "array",
@@ -80,7 +80,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T16:54:07.673Z",
+    "last_updated": "2026-11-02T20:29:22.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Template Literal Types examples",
